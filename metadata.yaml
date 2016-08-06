@@ -1,0 +1,32 @@
+_repo: Journals-of-Australian-Explorations_10461
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Gregory, Augustus Charles
+    birthdate: 1819
+    deathdate: 1905
+    gutenberg_agent_id: '3545'
+    url: http://www.gutenberg.org/2009/agents/3545
+    wikipedia: http://en.wikipedia.org/wiki/Augustus_Gregory
+  - agent_name: Gregory, Francis Thomas
+    birthdate: 1821
+    deathdate: 1888
+    gutenberg_agent_id: '4641'
+    url: http://www.gutenberg.org/2009/agents/4641
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Thomas_Gregory
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Australia -- Discovery and exploration'
+- GITenberg
+title: Journals of Australian Explorations
+url: http://www.gutenberg.org/ebooks/10461
